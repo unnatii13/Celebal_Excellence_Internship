@@ -1,0 +1,16 @@
+user_id,transaction_date,region,product_category,sale_amount,status,age,subscription,city,email,username,price,store_id,raw_timestamp
+101,2024-01-05,West,Electronics,450.0,Completed,25,Premium,SF,a@mail.com,alice,450.0,S101,2024-01-05 10:15:00
+101,2024-01-05,West,Electronics,450.0,Completed,25,Premium,SF,a@mail.com,alice,450.0,S101,2024-01-05 10:15:00
+102,2024-01-06,East,Furniture,320.0,,34,Basic,NY,b@mail.com,bob,320.0,S102,2024-01-06 11:20:00
+103,2024-01-07,West,Electronics,610.0,Completed,29,Premium,SF,,carol,610.0,S101,2024-01-07 09:05:00
+104,2024-01-08,West,Apparel,85.0,Pending,41,Basic,LA,d@mail.com,,85.0,S104,2024-01-08 14:45:00
+105,2024-01-08,South,Electronics,275.0,Completed,18,Premium,HOU,e@mail.com,eve,,S102,2024-01-08 16:00:00
+106,2024-01-09,West,Furniture,190.0,Completed,30,Premium,SF,f@mail.com,frank,190.0,S101,2024-01-09 08:30:00
+107,2024-01-09,East,Apparel,60.0,Cancelled,22,Basic,NY,g@mail.com,grace,60.0,S102,2024-01-09 10:10:00
+108,2024-01-10,West,Electronics,530.0,Completed,27,Premium,LA,h@mail.com,heidi,530.0,S104,2024-01-10 12:12:00
+109,2024-01-10,South,Furniture,275.0,,45,Basic,HOU,,ivan,,S102,2024-01-10 13:13:00
+110,2024-01-11,West,Apparel,95.0,Completed,19,Premium,SF,j@mail.com,judy,95.0,S101,2024-01-11 09:09:00
+111,2024-01-11,West,Electronics,480.0,Completed,33,Basic,LA,k@mail.com,kim,480.0,S104,2024-01-11 15:15:00
+112,2024-01-12,East,Electronics,410.0,Completed,24,Premium,NY,l@mail.com,leo,410.0,S102,2024-01-12 17:17:00
+113,2024-01-12,West,Furniture,330.0,Completed,30,Premium,SF,m@mail.com,,330.0,S101,2024-01-12 18:18:00
+114,2024-01-13,South,Apparel,70.0,Completed,21,Basic,HOU,n@mail.com,nate,70.0,S102,2024-01-13 19:19:00
