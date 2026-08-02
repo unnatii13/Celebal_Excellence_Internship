@@ -1,0 +1,154 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region,last_updated
+C-1000,Mona Ortiz,Consumer,United States,Seattle,Washington,80239.0,West,2024-01-01
+C-1001,Sam Ortiz,Home Office,United States,Columbus,Ohio,38140.0,Central,2024-01-01
+C-1002,Noah Clark,Consumer,United States,Chicago,Illinois,41544.0,Central,2024-01-01
+C-1003,Noah Ortiz,Home Office,United States,Houston,Texas,26226.0,Central,2024-01-01
+C-1004,Sam Okafor,Corporate,United States,New York City,New York,16499.0,East,2024-01-01
+C-1005,Rosa Popov,Corporate,United States,New York City,New York,64937.0,East,2024-01-01
+C-1006,Sam Farouk,Home Office,United States,New York City,New York,99391.0,East,2024-01-01
+C-1007,Sam Okafor,Home Office,United States,New York City,New York,34624.0,East,2024-01-01
+C-1008,Rosa Reyes,Home Office,United States,Oakland,California,17812.0,West,2024-01-01
+C-1009,Vera Diaz,Corporate,United States,Newark,New Jersey,51175.0,East,2024-01-01
+C-1010,Liam Farouk,Consumer,United States,Henderson,Kentucky,33562.0,South,2024-01-01
+C-1011,Sam Farouk,Home Office,United States,New York City,New York,74895.0,East,2024-01-01
+C-1012,Jamal Lindqvist,Consumer,United States,Reno,Nevada,25475.0,West,2024-01-01
+C-1013,Yusuf Novak,Consumer,United States,Atlanta,Georgia,74089.0,South,2024-01-01
+C-1014,Vera Reyes,Home Office,United States,Tampa,Florida,85107.0,South,2024-01-01
+C-1015,Wes Byrne,Home Office,United States,Phoenix,Arizona,75100.0,West,2024-01-01
+C-1016,Adrian Reyes,Corporate,United States,Tampa,Florida,72141.0,South,2024-01-01
+C-1017,Xena Farouk,Home Office,United States,Chicago,Illinois,85752.0,Central,2024-01-01
+C-1018,Wes Ahmadi,Home Office,United States,Monroe,Louisiana,55482.0,South,2024-01-01
+C-1019,Liam Haidari,Home Office,United States,Minneapolis,Minnesota,25347.0,Central,2024-01-01
+C-1020,Grace Farouk,Consumer,United States,Tampa,Florida,42455.0,South,2024-01-01
+C-1021,Dana Rao,Consumer,United States,Henderson,Kentucky,31805.0,South,2024-01-01
+C-1022,Rosa Silva,Consumer,United States,Henderson,Kentucky,66429.0,South,2024-01-01
+C-1023,Liam Ahmadi,Consumer,United States,Reno,Nevada,29781.0,West,2024-01-01
+C-1024,Elena Tanaka,Home Office,United States,Green Bay,Wisconsin,40583.0,Central,2024-01-01
+C-1025,Adrian Okafor,Consumer,United States,Minneapolis,Minnesota,44438.0,Central,2024-01-01
+C-1026,Elena Clark,Home Office,United States,Oakland,California,58398.0,West,2024-01-01
+C-1027,Wes Sullivan,Home Office,United States,Seattle,Washington,95847.0,West,2024-01-01
+C-1028,Carlos Diaz,Corporate,United States,Minneapolis,Minnesota,62175.0,Central,2024-01-01
+C-1029,David Rao,Home Office,United States,Henderson,Kentucky,62486.0,South,2024-01-01
+C-1030,Carla Liu,Corporate,United States,Green Bay,Wisconsin,31273.0,Central,2024-01-01
+C-1031,Tara Ortiz,Consumer,United States,Columbus,Ohio,10030.0,Central,2024-01-01
+C-1032,Liam Lindqvist,Consumer,United States,New York City,New York,19216.0,East,2024-01-01
+C-1033,Elena Silva,Corporate,United States,Newark,New Jersey,88941.0,East,2024-01-01
+C-1034,David Kim,Corporate,United States,Reno,Nevada,71078.0,West,2024-01-01
+C-1035,Jamal Reyes,Consumer,United States,Henderson,Kentucky,23393.0,South,2024-01-01
+C-1036,Priya Haidari,Home Office,United States,Phoenix,Arizona,13027.0,West,2024-01-01
+C-1037,Elena Diaz,Consumer,United States,Fairfield,Connecticut,,East,2024-01-01
+C-1038,Wes Silva,Home Office,United States,Oakland,California,58064.0,West,2024-01-01
+C-1039,Yusuf Tanaka,Home Office,United States,Fairfield,Connecticut,80984.0,East,2024-01-01
+C-1040,Tara Liu,,United States,Seattle,Washington,62518.0,West,2024-01-01
+C-1041,Quinn Rao,Corporate,United States,Philadelphia,Pennsylvania,13798.0,East,2024-01-01
+C-1042,Priya Silva,Consumer,United States,Columbus,Ohio,89316.0,Central,2024-01-01
+C-1043,Zoe Byrne,Corporate,United States,Reno,Nevada,20556.0,West,2024-01-01
+C-1044,Hiro Rao,Consumer,United States,New York City,New York,54267.0,East,2024-01-01
+C-1045,Tara Lindqvist,Consumer,United States,Newark,New Jersey,72845.0,East,2024-01-01
+C-1046,Adrian Kim,Corporate,United States,Oakland,California,36125.0,West,2024-01-01
+C-1047,Noah Novak,Consumer,United States,Atlanta,Georgia,61883.0,South,2024-01-01
+C-1048,Xena Reyes,Home Office,United States,Henderson,Kentucky,30821.0,South,2024-01-01
+C-1049,Alice Popov,Home Office,United States,Philadelphia,Pennsylvania,70994.0,East,2024-01-01
+C-1050,Vera Byrne,Consumer,United States,Newark,New Jersey,81913.0,East,2024-01-01
+C-1051,Alice Kim,Home Office,United States,New York City,New York,28251.0,East,2024-01-01
+C-1052,Adrian Liu,Consumer,United States,Atlanta,Georgia,43008.0,South,2024-01-01
+C-1053,Quinn Tanaka,Home Office,United States,Fairfield,Connecticut,52728.0,East,2024-01-01
+C-1054,Adrian Popov,Consumer,United States,Reno,Nevada,56371.0,West,2024-01-01
+C-1055,Adrian Sullivan,Consumer,United States,Henderson,Kentucky,79707.0,South,2024-01-01
+C-1056,Bianca Petrov,Consumer,United States,New York City,New York,89764.0,East,2024-01-01
+C-1057,Farid Popov,Corporate,United States,Green Bay,Wisconsin,91146.0,Central,2024-01-01
+C-1058,Ben Novak,Home Office,United States,Houston,Texas,77941.0,Central,2024-01-01
+C-1059,Carlos Diaz,Consumer,United States,Tampa,Florida,42570.0,South,2024-01-01
+C-1060,Ben Kim,Home Office,United States,Fairfield,Connecticut,69267.0,East,2024-01-01
+C-1061,Olga Novak,Home Office,United States,Chicago,Illinois,76263.0,Central,2024-01-01
+C-1062,Olga Sullivan,Home Office,United States,Fairfield,Connecticut,72657.0,East,2024-01-01
+C-1063,Dana Diaz,Consumer,United States,Fairfield,Connecticut,68658.0,East,2024-01-01
+C-1064,David Ahmadi,Corporate,United States,Newark,New Jersey,51416.0,East,2024-01-01
+C-1065,Noah Reyes,Consumer,United States,Green Bay,Wisconsin,97749.0,Central,2024-01-01
+C-1066,Carlos Popov,,United States,Oakland,California,94339.0,West,2024-01-01
+C-1067,Ines Popov,Corporate,United States,Seattle,Washington,38781.0,West,2024-01-01
+C-1068,Carlos Rao,Consumer,United States,Minneapolis,Minnesota,97534.0,Central,2024-01-01
+C-1069,Wes Clark,Home Office,United States,Philadelphia,Pennsylvania,62928.0,East,2024-01-01
+C-1070,Grace Byrne,Corporate,United States,Reno,Nevada,22084.0,West,2024-01-01
+C-1071,Karin Diaz,Corporate,United States,Oakland,California,67731.0,West,2024-01-01
+C-1072,Karin Sullivan,Home Office,United States,Minneapolis,Minnesota,48725.0,Central,2024-01-01
+C-1073,Dana Tanaka,Consumer,United States,Chicago,Illinois,21018.0,Central,2024-01-01
+C-1074,Ben Haidari,Corporate,United States,Phoenix,Arizona,26981.0,West,2024-01-01
+C-1075,Mona Popov,Home Office,United States,Monroe,Louisiana,77473.0,South,2024-01-01
+C-1076,Carla Silva,Consumer,United States,Monroe,Louisiana,34031.0,South,2024-01-01
+C-1077,Ines Nguyen,Home Office,United States,Tampa,Florida,21608.0,South,2024-01-01
+C-1078,Tara Tanaka,Consumer,United States,Oakland,California,44662.0,West,2024-01-01
+C-1079,Alice Novak,Home Office,United States,Minneapolis,Minnesota,64756.0,Central,2024-01-01
+C-1080,Ben Sullivan,Home Office,United States,Seattle,Washington,41252.0,West,2024-01-01
+C-1081,Ines Ortiz,Consumer,United States,Green Bay,Wisconsin,36446.0,Central,2024-01-01
+C-1082,Quinn Liu,Corporate,United States,Phoenix,Arizona,68417.0,West,2024-01-01
+C-1083,Liam Nguyen,Corporate,United States,Fairfield,Connecticut,14843.0,East,2024-01-01
+C-1084,Xena Sullivan,,United States,Chicago,Illinois,34832.0,Central,2024-01-01
+C-1085,Dana Petrov,Consumer,United States,Atlanta,Georgia,96287.0,South,2024-01-01
+C-1086,Rosa Ahmadi,Home Office,United States,Henderson,Kentucky,50341.0,South,2024-01-01
+C-1087,Karin Liu,Home Office,United States,Philadelphia,Pennsylvania,93358.0,East,2024-01-01
+C-1088,Liam Ortiz,Consumer,United States,Newark,New Jersey,11868.0,East,2024-01-01
+C-1089,Noah Haidari,Consumer,United States,Columbus,Ohio,21073.0,Central,2024-01-01
+C-1090,Tara Tanaka,Home Office,United States,Monroe,Louisiana,48411.0,South,2024-01-01
+C-1091,Farid Haidari,Corporate,United States,Minneapolis,Minnesota,68435.0,Central,2024-01-01
+C-1092,Liam Novak,Home Office,United States,Columbus,Ohio,52406.0,Central,2024-01-01
+C-1093,Carlos Farouk,Consumer,United States,New York City,New York,56738.0,East,2024-01-01
+C-1094,Karin Ahmadi,Consumer,United States,New York City,New York,72212.0,East,2024-01-01
+C-1095,Hiro Sullivan,Consumer,United States,Seattle,Washington,21908.0,West,2024-01-01
+C-1096,Elena Ahmadi,Home Office,United States,Oakland,California,15461.0,West,2024-01-01
+C-1097,Jamal Farouk,Home Office,United States,Tampa,Florida,40514.0,South,2024-01-01
+C-1098,Quinn Popov,Home Office,United States,Houston,Texas,88192.0,Central,2024-01-01
+C-1099,Xena Rao,Consumer,United States,Monroe,Louisiana,47247.0,South,2024-01-01
+C-1100,Adrian Sullivan,Home Office,United States,New York City,New York,66261.0,East,2024-01-01
+C-1101,Adrian Okafor,Home Office,United States,New York City,New York,99508.0,East,2024-01-01
+C-1102,Alice Ortiz,Consumer,United States,New York City,New York,93508.0,East,2024-01-01
+C-1103,Mona Petrov,Home Office,United States,Oakland,California,16655.0,West,2024-01-01
+C-1104,Vera Tanaka,Corporate,United States,Houston,Texas,44575.0,Central,2024-01-01
+C-1105,Zoe Reyes,Home Office,United States,Minneapolis,Minnesota,75925.0,Central,2024-01-01
+C-1106,Carla Rao,Corporate,United States,Houston,Texas,19758.0,Central,2024-01-01
+C-1107,Xena Liu,Consumer,United States,Seattle,Washington,95187.0,West,2024-01-01
+C-1108,Bianca Ahmadi,Consumer,United States,Henderson,Kentucky,72784.0,South,2024-01-01
+C-1109,Tara Liu,Consumer,United States,Oakland,California,88604.0,West,2024-01-01
+C-1110,Ines Farouk,Home Office,United States,Fairfield,Connecticut,84417.0,East,2024-01-01
+C-1111,Priya Ortiz,Corporate,United States,New York City,New York,45228.0,East,2024-01-01
+C-1112,Vera Rao,Corporate,United States,Green Bay,Wisconsin,77703.0,Central,2024-01-01
+C-1113,Olga Petrov,Consumer,United States,Reno,Nevada,,West,2024-01-01
+C-1114,Carla Rao,Consumer,United States,Fairfield,Connecticut,47956.0,East,2024-01-01
+C-1115,Adrian Sullivan,Corporate,United States,Tampa,Florida,45213.0,South,2024-01-01
+C-1116,Dana Liu,Consumer,United States,Atlanta,Georgia,86214.0,South,2024-01-01
+C-1117,Xena Sullivan,Corporate,United States,Green Bay,Wisconsin,57127.0,Central,2024-01-01
+C-1118,Carlos Kim,Home Office,United States,Fairfield,Connecticut,57865.0,East,2024-01-01
+C-1119,Carlos Rao,Corporate,United States,Newark,New Jersey,13255.0,East,2024-01-01
+C-1120,Priya Petrov,Corporate,United States,New York City,New York,49577.0,East,2024-01-01
+C-1121,Liam Ahmadi,Corporate,United States,Newark,New Jersey,25847.0,East,2024-01-01
+C-1122,Karin Novak,Corporate,United States,Oakland,California,25734.0,West,2024-01-01
+C-1123,Carlos Farouk,Corporate,United States,New York City,New York,58787.0,East,2024-01-01
+C-1124,Mona Okafor,Consumer,United States,Minneapolis,Minnesota,57278.0,Central,2024-01-01
+C-1125,Bianca Ortiz,Corporate,United States,Monroe,Louisiana,23331.0,South,2024-01-01
+C-1126,Umar Popov,Consumer,United States,Columbus,Ohio,44829.0,Central,2024-01-01
+C-1127,Grace Byrne,Corporate,United States,Monroe,Louisiana,13802.0,South,2024-01-01
+C-1128,Xena Reyes,Consumer,United States,Atlanta,Georgia,63855.0,South,2024-01-01
+C-1129,Umar Farouk,Corporate,United States,Atlanta,Georgia,16419.0,South,2024-01-01
+C-1130,Priya Clark,Corporate,United States,Philadelphia,Pennsylvania,46929.0,East,2024-01-01
+C-1131,Xena Silva,Corporate,United States,Phoenix,Arizona,,West,2024-01-01
+C-1132,Priya Diaz,Home Office,United States,Fairfield,Connecticut,61690.0,East,2024-01-01
+C-1133,Umar Haidari,Consumer,United States,Green Bay,Wisconsin,37246.0,Central,2024-01-01
+C-1134,Olga Novak,Corporate,United States,Atlanta,Georgia,66023.0,South,2024-01-01
+C-1135,Hiro Reyes,Consumer,United States,Philadelphia,Pennsylvania,54820.0,East,2024-01-01
+C-1136,Hiro Byrne,Corporate,United States,Columbus,Ohio,84660.0,Central,2024-01-01
+C-1137,Xena Clark,Corporate,United States,New York City,New York,64248.0,East,2024-01-01
+C-1138,Ines Novak,Consumer,United States,Newark,New Jersey,,East,2024-01-01
+C-1139,Elena Sullivan,Home Office,United States,Phoenix,Arizona,92526.0,West,2024-01-01
+C-1140,Ines Tanaka,Corporate,United States,New York City,New York,62396.0,East,2024-01-01
+C-1141,Jamal Nguyen,Consumer,United States,Henderson,Kentucky,14226.0,South,2024-01-01
+C-1142,Sam Rao,Consumer,United States,Henderson,Kentucky,19586.0,South,2024-01-01
+C-1143,Olga Tanaka,Consumer,United States,Henderson,Kentucky,39333.0,South,2024-01-01
+C-1144,Quinn Kim,Home Office,United States,Philadelphia,Pennsylvania,94849.0,East,2024-01-01
+C-1145,Rosa Ortiz,Consumer,United States,Tampa,Florida,26469.0,South,2024-01-01
+C-1146,Umar Farouk,Consumer,United States,New York City,New York,92113.0,East,2024-01-01
+C-1147,Wes Kim,Consumer,United States,Reno,Nevada,19221.0,West,2024-01-01
+C-1148,Mona Silva,Consumer,United States,Seattle,Washington,88782.0,West,2024-01-01
+C-1149,Rosa Farouk,,United States,Chicago,Illinois,46517.0,Central,2024-01-01
+C-1006,Sam Farouk,Home Office,United States,New York City,New York,99391.0,East,2024-01-01
+C-1003,Noah Ortiz,Home Office,United States,Houston,Texas,26226.0,Central,2024-01-01
+C-1113,Olga Petrov,Consumer,United States,Reno,Nevada,,West,2024-01-01

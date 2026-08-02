@@ -1,0 +1,29 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region,last_updated
+C-1080,Ben Novak,Home Office,United States,Newark,New Jersey,65123,East,2024-06-15
+C-1062,Grace Nguyen,Corporate,United States,Reno,Nevada,76175,West,2024-06-15
+C-1121,Priya Liu,Corporate,United States,Green Bay,Wisconsin,35419,Central,2024-06-15
+C-1134,Hiro Silva,Corporate,United States,Newark,New Jersey,24287,East,2024-06-15
+C-1060,Carlos Tanaka,Corporate,United States,Atlanta,Georgia,64660,South,2024-06-15
+C-1140,Elena Ahmadi,Consumer,United States,Houston,Texas,37911,Central,2024-06-15
+C-1063,Elena Clark,Consumer,United States,Houston,Texas,17882,Central,2024-06-15
+C-1007,Olga Novak,Home Office,United States,Newark,New Jersey,24838,East,2024-06-15
+C-1105,Karin Liu,Consumer,United States,Green Bay,Wisconsin,95520,Central,2024-06-15
+C-1078,Jamal Ahmadi,Corporate,United States,Tampa,Florida,53476,South,2024-06-15
+C-1014,David Nguyen,Consumer,United States,Atlanta,Georgia,46674,South,2024-06-15
+C-1005,Noah Kim,Home Office,United States,Columbus,Ohio,37184,Central,2024-06-15
+C-1049,Yusuf Farouk,Corporate,United States,Monroe,Louisiana,21502,South,2024-06-15
+C-1127,Grace Byrne,Home Office,United States,Minneapolis,Minnesota,68503,Central,2024-06-15
+C-1107,Liam Rao,Consumer,United States,Fairfield,Connecticut,92793,East,2024-06-15
+C-1020,Zoe Ahmadi,Consumer,United States,Atlanta,Georgia,59226,South,2024-06-15
+C-1065,Carla Ortiz,Corporate,United States,Minneapolis,Minnesota,35551,Central,2024-06-15
+C-1058,Karin Byrne,Corporate,United States,Houston,Texas,53905,Central,2024-06-15
+C-1108,Xena Novak,Corporate,United States,Columbus,Ohio,48981,Central,2024-06-15
+C-1094,Dana Reyes,Consumer,United States,Houston,Texas,40653,Central,2024-06-15
+NC-2000,Wes Petrov,Corporate,United States,Minneapolis,Minnesota,42905,Central,2024-06-15
+NC-2001,Elena Rao,Consumer,United States,Henderson,Kentucky,11141,South,2024-06-15
+NC-2002,Tara Tanaka,Corporate,United States,Seattle,Washington,51883,West,2024-06-15
+NC-2003,Zoe Lindqvist,Consumer,United States,Monroe,Louisiana,77093,South,2024-06-15
+NC-2004,Yusuf Haidari,Consumer,United States,Newark,New Jersey,63445,East,2024-06-15
+NC-2005,Priya Diaz,Home Office,United States,Chicago,Illinois,52697,Central,2024-06-15
+NC-2006,Carlos Kim,Consumer,United States,Newark,New Jersey,44719,East,2024-06-15
+NC-2007,David Clark,Corporate,United States,Green Bay,Wisconsin,68584,Central,2024-06-15
