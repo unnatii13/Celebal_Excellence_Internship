@@ -1,0 +1,19 @@
+
+E-COMMERCE DATA QUALITY REPORT
+
+ORDERS
+Total orders: 1000
+Missing customer IDs: 50
+Invalid dates: 980
+
+PRODUCTS
+Total products: 500
+Product names normalized: 25
+
+CUSTOMERS
+Total customers: 500
+Invalid emails: 10
+
+ORDER ITEMS
+Total order items: 2000
+Invalid order references: 0
